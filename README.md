@@ -1,2 +1,2 @@
-# 3Zkinematic-Ratcurve
-Hardware and Firmware implementation for 5axis printing
+# Ratcurve-3ZKinematics
+Machine CAD and Firmware implementation for customs 5 axis Ratrig 3.0
